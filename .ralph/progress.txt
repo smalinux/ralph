@@ -1,3 +1,2 @@
-# Ralph progress ledger — one line per completed slice.
-# Format: <ISO date>  <slice id>  <commit sha>  <one-line summary>
+# Ralph progress ledger
 # The loop reads this to know what's done; append to it, never rewrite history.
